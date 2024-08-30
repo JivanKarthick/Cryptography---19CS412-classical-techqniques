@@ -298,7 +298,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/9f2da3a2-637f-4ef1-b895-0e8f86f3035c)
+![image](https://github.com/user-attachments/assets/7b0d0168-36bd-45c9-b1c0-63ace591e4b1)
 
 
 ## RESULT:
