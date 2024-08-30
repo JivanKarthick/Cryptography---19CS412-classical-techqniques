@@ -500,7 +500,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/e634e969-1462-4899-b38d-509b66c24dfe)
+![image](https://github.com/user-attachments/assets/d723457b-44fb-4d21-831a-da6d37345a9c)
 
 
 
